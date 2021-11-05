@@ -1,0 +1,14 @@
+Tipos de listas: 
+
+JavaScript
+Con la estructura set permite crear conjuntos de valores únicos. 
+El objeto WeakMap no permite enumerar los objetos introducidos. 
+
+
+C#
+Con la estructura HashSet permite crear conjuntos de valores únicos.
+Ejemplo: List<string> listOfStrings = new HashSet<string>();
+A partir de .net 4.5.1 la única manera de utilizar una lista que no enumere los objetos es usando  ConditionalWeakTable.
+
+
+
