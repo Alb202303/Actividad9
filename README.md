@@ -23,7 +23,6 @@ Muestra el total con dos decimales
 
 
 Actividad3
-
-saca un número aleatorio del 1 al 10
+Saca un número aleatorio del 1 al 10
 almacena ese número
 pide un número hasta que adivines el número almacenado anteriormente
