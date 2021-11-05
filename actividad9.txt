@@ -1,9 +1,0 @@
-﻿Java
-
-
-¿Cómo se llama una lista que no permite repetición de valores?
-Se evita la repetición de valores usando “Tuple”
-
-
-¿Cómo se llama una lista que no está ordenada?
-Se llama “Set”.
